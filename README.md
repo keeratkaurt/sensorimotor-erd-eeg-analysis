@@ -172,7 +172,7 @@ Possible extensions of this project include:
 ## Authors
 
 Keerat Kaur
-Cognitive Science – Machine Learning & Neural Computation
+Cognitive Science – Machine Learning & Neural Computation   
 University of California, San Diego
 
 Nicolas Thiele
