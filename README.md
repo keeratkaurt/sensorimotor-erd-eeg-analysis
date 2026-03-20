@@ -179,6 +179,10 @@ Nicolas Thiele
 Cognitive Science – Neuroscience   
 University of California, San Diego
 
+Alexander Jacobo
+Cognitive Science – Machine Learning & Neural Computation   
+University of California, San Diego
+
 ---
 
 ## License
